@@ -1,32 +1,33 @@
 .container{
-    background-color: black;
+    background-color: red;
     width: 400px;
     height: 700px;
     border-radius: 10px;
+    
+}
+.logo-container{
+    margin: 10px 5px;
+
+}
+.logo-container .logo{
+color:white;
+width:100px;
+height: auto;
+margin: 30px 30px;
+
 }
 
-.logo-container .logo{
-color:red;
-}
-.display{
-    background-color: black;
-    color: white;
-    height: 4.3rem;
-    margin: 10px 0px;
-    padding: 25px 20px 0px 0px;
-    border-radius: 50px;
-    font-size: 2rem;
-    text-align: right;
-}
 
 button {
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
-    margin: 10px 5px;
+    width: 50px;
+    height: 50px;
+    margin: 5px 30px;
     border: 1px solid black;
     color: white;
     font-size: 1.7rem;
     cursor: pointer;
     box-shadow: 0px 2px black;
+    
+
 }
