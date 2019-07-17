@@ -1,0 +1,10 @@
+.container{
+    background-color: black;
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+.logo-container .logo{
+color:red;
+}
